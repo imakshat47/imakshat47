@@ -9,6 +9,13 @@
   <a href="https://imakshat47.github.io"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/imakshat47"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+---
+
+📊 **My GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imakshat47&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imakshat47&theme=radical" width="48%"/>
+</p>
 
 ---
 
@@ -65,14 +72,6 @@ I am passionate about leveraging big data and AI to solve complex problems and a
 - 🎓 **GATE Qualified** – 2025 (Score: 560) & 2024 (Score: 515)
 - 🏆 **HackWithInfy National Qualifier** & **Campus Winner – SMC Mechatronics Cup** (2019)
 - 📄 **Published Research:** "[Multi-Lingual Code-Mixed Machine Translation System](http://dx.doi.org/10.1063/5.0076776)", International Conference on Computational Intelligence and Computing Applications (ICICCA), 2021.
-
----
-
-📊 **My GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imakshat47&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imakshat47&theme=radical" width="48%"/>
-</p>
 
 ---
 
