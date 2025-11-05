@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/imakshat47/imakshat47/main/counter.svg" width="48%" height="90px" />
+<img src="https://raw.githubusercontent.com/imakshat47/imakshat47/main/counter.svg" width="48%" height="30px" />
 
 <h1 align="center">👋 Hi, I'm Akshat Kumar</h1>
 <h3 align="center">STM Intern | NITian | Ex-Accenture Data Engineer | AI Enthusiast | Big Data, Cloud & ML Explorer</h3>
