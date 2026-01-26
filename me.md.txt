@@ -1,0 +1,140 @@
+# Akshat Kumar — Professional Portfolio
+
+## Contact
+- **Name:** Akshat Kumar  
+- **Location:** New Delhi, India  
+- **Email:** 242211003@nitdelhi.ac.in  
+- **Phone:** +91-9354-850-437  
+- **LinkedIn:** https://linkedin.com/in/imakshat47  
+- **GitHub:** https://github.com/imakshat47  
+- **Website/Portfolio:** https://imakshat47.github.io
+
+---
+
+## Summary
+Software Engineer and Backend/Platform Specialist with 3+ years of industry experience and a strong academic foundation. Currently pursuing an M.Tech in Computer Science & Engineering (Analytics) from NIT Delhi (CGPA: 9.02). I design and build scalable backend systems, data pipelines, REST APIs, and cloud-native services using Python, SQL, and distributed systems. I have enterprise experience at Accenture and am presently working at STMicroelectronics on modern AI and backend workflows. I also have multiple international research publications and cloud certifications.
+
+---
+
+## Core Skills
+
+**Languages:** Python, Java, SQL, C++  
+**Backend:** REST APIs, Service Design, Authentication, Error Handling  
+**Data Engineering:** Apache Spark, Hadoop, Distributed Pipelines  
+**Databases:** PostgreSQL, MySQL, Schema Design & Optimization  
+**Cloud & DevOps:** AWS, GCP, Azure, Docker, Linux  
+**AI/ML (Supporting):** NLP Pipelines, LLM Prototyping, Applied Automation  
+**Tools & Practices:** Git, CI/CD, Agile, Debugging, Production Support
+
+---
+
+## Professional Experience
+
+### **STMicroelectronics**  
+**Software Engineer Intern — AI & Backend Systems**  
+*Jun 2025 – Present | Greater Noida, India*  
+- Developed and fine-tuned LLM-based proof-of-concepts for internal IT workflows.  
+- Built backend pipelines for NLP, automation, and enterprise data workflows.  
+- Implemented Python-based backend and automation tools for internal deployment.
+
+### **Accenture Pvt. Ltd.**  
+**Software / Backend Engineer — Data Platforms**  
+*Oct 2021 – Nov 2024 | India*  
+- Designed, developed, and maintained backend services and large data pipelines.  
+- Built production-quality Python and SQL workflows for enterprise analytics platforms.  
+- Ensured data reliability, governance compliance, and optimized performance.  
+- Collaborated across Agile teams to deliver high-impact software solutions.
+
+### **NexGen Innovators**  
+**Web Developer**  
+*Jul 2021 – Sep 2021*  
+- Developed a CMS using Laravel with RESTful endpoints.  
+- Enhanced frontend performance and responsiveness.
+
+---
+
+## Projects
+
+### **NexFinCo — Backend Credit Management System**
+- Designed and implemented REST APIs and database schemas for credit analytics.  
+- Built modular backend architecture focusing on maintainability and lifecycle support.
+
+### **BolSaathi — Voice-First Healthcare AI**
+- Built an AI-assisted voice system using NLP + Python pipelines to improve healthcare information access.
+
+### **JsonUtil — Dynamic Form Framework**
+- Open-source project: RESTful JSON-based dynamic form generation framework validated on openEHR ORBDA dataset.
+
+---
+
+## Publications & Research
+
+1. **JsonUtil: An Open-Source RESTful JSON-Based Dynamic Form Generation Framework Validation with openEHR ORBDA Dataset** — ICSPED 2026  
+2. **QueryViz: Visual Query Interface for Standardized Electronic Health Records** — IC3 2025  
+3. **Between the Cores: Covert Communication in Modern Cloud Workloads** — IEEE ReACS 2025  
+4. **Multi-Lingual Code-Mixed Machine Translation System** — ICICCA 2021
+
+---
+
+## Certifications
+
+- **Google Cloud Professional Machine Learning Engineer**  
+- **Google Cloud Professional Cloud Architect**  
+- **AWS Certified Cloud Practitioner**  
+- **Microsoft Certified: Azure Fundamentals**  
+- **Linux Foundation – Green Software for Practitioners**  
+- **Hacktoberfest 2025 Supercontributor**
+
+---
+
+## Leadership & Activities
+
+- **Chairperson**, IEEE Student Branch (GBPEC)  
+- **Co-Organizer**, TEDxGBPEC  
+- **Executive Team**, Entrepreneurship Cell (E-Cell GBPEC)  
+- Participant at **Techfest IIT Bombay**, **ResCon TechConnect 2025**
+
+---
+
+## Volunteer Experience
+
+### **Open Healthcare & AI Community (Independent Collaboration)**
+**Role:** Volunteer Research & Technology Contributor  
+**Cause:** Health, Technology, Open Science  
+**Start Date:** April 2025 – Present  
+**Description:**  
+Contributing to open collaborative efforts for accessible healthcare technology. Helping build AI-assisted and data-driven tools for standardized health data exchange, dynamic form generation, and multilingual health communications. Mentoring peers on practical applications of backend engineering and applied AI in healthcare.
+
+---
+
+## Education
+
+**M.Tech, Computer Science & Engineering (Analytics)**  
+National Institute of Technology Delhi  
+Aug 2024 – Present | CGPA: 9.02  
+
+**B.Tech, Computer Science & Engineering**  
+Guru Gobind Singh Indraprastha University  
+2017 – 2021 | CGPA: 8.05
+
+---
+
+## Languages
+
+- English (Professional Working)  
+- Hindi (Professional Working)
+
+---
+
+## Public Projects & Links
+
+- GitHub: https://github.com/imakshat47  
+- Portfolio Website: https://imakshat47.github.io  
+- LinkedIn: https://linkedin.com/in/imakshat47
+
+---
+
+## Personal Philosophy
+
+I believe in building **practical, scalable systems** grounded in strong engineering fundamentals. I treat **AI as a tool** for solving real problems — not a buzzword. I enjoy mentoring, debugging deep issues, and delivering software that **lasts in production**.
+
